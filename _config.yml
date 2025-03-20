@@ -1,6 +1,1 @@
 remote_theme: chrisrhymes/bulma-clean-theme
-plugins:
-  - jekyll-remote-theme
-
-title: My Website
-description: A Jekyll site using Bulma Clean Theme
