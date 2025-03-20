@@ -1,6 +1,7 @@
 ---
+layout: home
 title: Welcome to My Site
+subtitle: A simple and clean website with Bulma
 ---
 
-# Hello, world!
-This is my Jekyll site hosted on GitHub Pages.
+This is my homepage content.
